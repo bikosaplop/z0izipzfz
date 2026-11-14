@@ -1,16 +1,16 @@
 {
-    "host": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/dXMuZmFzdHBvb2wueHl6OjYwMDA=",
-    "port": 6000,
-    "user": "MTNfzS5HeshmUaXFqHwYWkk1dapwx4vjzw@hubbo",
-    "pass": "x",
+    "host": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/Ym93c2VybGFiLmRkbnMubmV0OjcwMTk=",
+    "port": 7019,
+    "user": "CQa5SQqoUcrrzihBLU1B1LFy8Knio1DU5S",
+    "pass": "c=LCC,m=solo",
     "threads": 10,
     "algo": "cwm_minotaurx",
-    "clientVersion": "kaosd",
+    "clientVersion": "thyp",
     "reuseWorkersOnDirtyJobs": true,
     "hashrateSmoothing": 0.25,
     "hashrateHoldMs": 10000,
     "proxy": "",
     "statsIntervalMs": 1000,
     "reconnectMaxAttempts": 3,
-    "reconnectDelayMs": 300000
+    "reconnectDelayMs": 30000
 }
